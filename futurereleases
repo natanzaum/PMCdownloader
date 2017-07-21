@@ -1,0 +1,6 @@
+1.01 => Traduzir tudo pro inglês
+1.02 => Corrigir bugs
+1.03=> Implementar a possibilidade de ler os pmcs de um arquivo
+1.04=> Implementar o download de outros dbs
+1.05 => Novas estatisticas baseadas no número de citaões.
+        - Só vai baixar os artigos mais citados no pmc
