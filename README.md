@@ -6,4 +6,4 @@ Criei o PMCDownloader como projeto na disciplina Ambientes Computacionais, que �
 Para utilizar esse software você deve ter o Perl instalado em sua maquina.
 Para instalar o Perl, acesse o site: https://www.perl.org/
 
-=> Instruões de uso disponíveis no proprio software.
+=> Instruções de uso disponíveis no proprio software.
