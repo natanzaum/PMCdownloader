@@ -7,3 +7,9 @@ Para utilizar esse software você deve ter o Perl instalado em sua maquina.
 Para instalar o Perl, acesse o site: https://www.perl.org/
 
 => Instruções de uso disponíveis no proprio software.
+
+Releases futuras:
+-Traduzir para inglês
+-Melhorar o sistema de buscas
+-Adicionar um dashboard com estatisticas do que foi baixado, usando analise de dados (Modulo 4 bootcamp igti)
+-Interface gráfica
